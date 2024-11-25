@@ -1,0 +1,102 @@
+.box{
+    border: 2px solid black;
+    width:  200px;
+    height: 200px;
+    display:inline-block;
+    margin-left: 30px;
+    box-shadow: 10px 10px 10px black;
+    transform: box-shadow; 
+    transition-duration: 0.75s;
+    border-radius: 10px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.box:hover{
+    box-shadow: 20px 20px 10px black;
+}
+
+.subbox{
+    width:100%;
+    height:50%;
+}
+
+#subbox1{
+    background-image: url(kerela.jpg);
+    background-size: cover;
+}
+
+#subbox2{
+    background-image: url(Suvidha.jpg);
+    background-size: cover;
+}
+
+#subbox3{
+    background-image: url(cci.jpg);
+    background-size: cover;
+}
+
+#subbox4{
+    background-image: url(coachin.jpg);
+    background-size: cover;
+}
+
+#subbox5{
+    background-image:url(hrm1.jpg);
+    background-size: cover;
+}
+
+#subbox6{
+    background-image:url(pavgada.jpg);
+    background-size: cover;
+}
+
+#subbox7{
+    background-image:url(naomundi.jpg);
+    background-size: cover;
+}
+
+#subbox8{
+    background-image:url(andhra-sugar.png);
+    background-size: cover;
+}
+
+#subbox9{
+    background-image:url(ultra-tech.jpg);
+    background-size: cover;
+}
+
+#subbox10{
+    background-image:url(jindal.png);
+    background-size: cover;
+}
+
+#subbox11{
+    background-image:url(LADAKH.jpg);
+    background-size: cover;
+}
+
+#subbox12{
+    background-image:url(creda.png);
+    background-size: cover;
+}
+
+#subbox13{
+    background-image:url(Sunderbans.webp);
+    background-size: cover;
+}
+
+#subbox14{
+    background-image:url(hanley.jpeg);
+    background-size: cover;
+}
+
+body{
+    background-color: #FFFBDA;
+}
+#heading{
+    background-color: #ED9455;
+}
+
+
+
+

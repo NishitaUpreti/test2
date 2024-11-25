@@ -1,0 +1,24 @@
+body{
+    background-color: #FFBB70;
+}
+#main{
+    border: 3px solid black;
+    border-radius: 20px;
+    background-color:#FFFBDA;
+    width:  90%;
+    height: 90%;
+    padding:20px ;
+    margin: 20px;
+    margin-left: 40px;
+    color: #9d531f;
+}
+
+#image{
+    margin-left: 33px;
+}
+#image1{
+    width:90%
+}
+#image2{
+    margin-left: 30px;
+}
